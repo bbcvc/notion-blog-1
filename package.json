@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
+  "packageManager": "pnpm@7.17.1",
   "author": {
     "name": "tangly",
     "email": "mail@tangly1024.com",
@@ -70,6 +71,7 @@
     "eslint-plugin-react": "^7.23.2",
     "next-sitemap": "^1.6.203",
     "postcss": "^8.4.20",
+    "pnpm": "^7.25.1",
     "tailwindcss": "^3.2.4",
     "webpack-bundle-analyzer": "^4.5.0"
   },
